@@ -23,16 +23,28 @@ origin -> remote 원격으로 저장한 변수
 - snippet (나만의 단축어) : [vscode snippet 공식 문서](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
 - react-snippet-plugin (리액트 개발시 편함!): [vscode plugin react-snippet 공식 문서](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
-=======
+  =======
 
-# 김채은
+  
 
-> 안녕하세요, 웹 개발을 하는 김채은입니다.
->
+---
+
+
+
+# [김채은](https://github.com/chaeeun037)
+
+> 안녕하세요, 웹 개발을 하는 김채은입니다!
 > 주로 프론트엔드 개발을 해왔고, 서버도 얕게 다루어봤습니다.
->
-> 실제 개발 시간을 단축하기 위해 설계를 꼼꼼하게 하고, 프로젝트 전체를 보기 위해 노력하고 있습니다.
+> 실제 개발 시간을 단축하기 위해 설계를 꼼꼼하게 하고, 프로젝트 전체를 보기 위해 노력하고 있습니다. :)
 
+
+
+
+### ❤️ like
+
+- 30분 산책
+- 아이스 아메리카노
+- 시원한 맥주, 하이볼
 
 
 ### 👨‍💻 Career
@@ -44,9 +56,48 @@ origin -> remote 원격으로 저장한 변수
 
 
 
-### 🐙 GitHub
+# 나만의 Tip
+### 알아두면 편리한 git 명령어
 
-[chaeeun037](https://github.com/chaeeun037)
 
 
+* Repository 별 로그인 정보 설정
+
+```
+git config --global credential.github.com.useHttpPath true
+```
+
+
+
+* stage에 올릴 때 예외처리할 파일 설정
+
+[예시]
+
+```
+git reset -- 01_java/.metadata/
+
+find . -name .settings -exec git reset {} \;
+find . -name .classpath -exec git reset {} \;
+```
+
+
+
+* git commit timestamp 수정
+
+[예시]
+
+```
+GIT_COMMITER_DATE="Sun 10 Nov 2019 23:00:00 GMT+0900" git commit --amend --no-edit --date "Sun 10 Nov 2019 23:00:00 GMT+0900"
+```
+
+
+
+* git commit 내용 수정하기 - rebase
+
+[예시]
+
+```
+git rebase -i HEAD~10
+git rebase --continue
+```
 
