@@ -9,8 +9,6 @@
 - 배드민턴 치는 걸 좋아합니다!
 
 
-
-
 ---
 # 나만의 Tip
 ## 내가 자주 사용하는 Git 명령어
@@ -25,3 +23,30 @@ origin -> remote 원격으로 저장한 변수
 - snippet (나만의 단축어) : [vscode snippet 공식 문서](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
 - react-snippet-plugin (리액트 개발시 편함!): [vscode plugin react-snippet 공식 문서](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+=======
+
+# 김채은
+
+> 안녕하세요, 웹 개발을 하는 김채은입니다.
+>
+> 주로 프론트엔드 개발을 해왔고, 서버도 얕게 다루어봤습니다.
+>
+> 실제 개발 시간을 단축하기 위해 설계를 꼼꼼하게 하고, 프로젝트 전체를 보기 위해 노력하고 있습니다.
+
+
+
+### 👨‍💻 Career
+
+- 삼성 청년 SW 아카데미 SSAFY 3기 ( 2020.01 ~ 2020.12)
+- 컴퓨터과학과 학부 ( 2015.03 ~ 2020.02 )
+- 스타트업 인턴 ( 2018.06 ~ 2019. 01 )
+- 평창 동계 올림픽, 패럴림픽 조직위원회 정보통신부 매니저 ( 2018.01 ~ 2018.03 )
+
+
+
+### 🐙 GitHub
+
+[chaeeun037](https://github.com/chaeeun037)
+
+
+
